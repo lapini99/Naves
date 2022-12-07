@@ -132,7 +132,7 @@ MonoBehaviour:
   damage: 5
   enemy: {fileID: 3480927616242267786, guid: 6cfa3b79c80c048428c52eda8956681c, type: 3}
   score: 1
-  player: {fileID: 0}
+  gameManager: {fileID: 7351123032151754984, guid: e031a2e0d815aa647854d6e256140eb3, type: 3}
 --- !u!1001 &8410365612384599005
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -44,4 +44,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed4a2b93d5324f54eb8a229497505511, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  score: {fileID: 0}
+  scoreTxt: {fileID: 4089612655403902364, guid: 888ec486485961f4ca83379d6c438681, type: 3}
+  score: 0
+  boss: {fileID: 6576101917504329990, guid: 10fa782f13e352345a34a20cee06f6f3, type: 3}
+  instantiateBoss: 5
+  isBossActive: 0
